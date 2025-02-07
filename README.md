@@ -9,4 +9,4 @@ Installation instructions: In order to install this project, follow the instruct
 
 Usage examples: This is useful in order to getting to know Git.
 How to contribute: References and Patreon :)
-Contact Information: You may contact me via my institutional email. 
+TESTESTESTS
